@@ -1,2 +1,6 @@
 # zero
-Zero, a REPL language with a focus on mathematics and utility features.
+Zero, a programming language focused on mathematics and utility.
+
+Very early in development. Build instructions:
+cmake --preset default
+cmake --build --preset default
